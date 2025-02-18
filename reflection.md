@@ -1,7 +1,7 @@
 Use this file to record your reflection on this assignment.
 
-- Which classmates did you consult with while working on this assignment?
-- Which session(s) of TA / office hours did you attend?
-- What are your initial impressions of Java? 
-- Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+While working on this assignment, I did not consult with any classmates, as I find it easier to break down logic and write code alone. However, I plan to do so for upcoming assignments to get more experience with collaborative work in computer science. 
+
+I have worked with Java briefly in the past, but found it very difficult to get a grasp on; however, I have found it much easier to undestand this time, and found that the syntax came naturally to me, likely due to my past experience. This language also provides a more complex approach to converting pseudocode into actual code than Python, which pushed me to break down the components of each step before implementing it in my code, and I believe this made noticing errors and missed criteria much clearer as well. Still, I find that Python is easier to think in as it is much closer to English, and is less verbose than Java. 
+
+Initially, I struggled with many syntax errors, especially with the curly brackets; I also found it difficult to execute every function as required, such as ensuring correct punctuations and capitalization in the mirrored strings. I did manage to figure these issues out within a short span of time, by running my code after every change in order to better understand which line affects which aspect of the output. I am still unsure about how to generate context specific outputs, however, such as teaching the chatbot to recognize whether 'you' should be replaced with 'I' or 'me'. I would advise anyone attempting this in the future to follow a similar habit of running their code after each change, as I have found it is an extremely effective method when trying to debug your own program. I would also suggest that they allow themselves to experiment with different approaches or methods when writing this code, as it helps develop a better understanding of how Java works, and how to implement it efficiently.
